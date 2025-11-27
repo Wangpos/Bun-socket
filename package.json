@@ -16,7 +16,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@prisma/client": "5.15.1",
+    "@prisma/client": "5.22.0",
     "cookie": "^0.6.0",
     "jsonwebtoken": "^9.0.2"
   },
